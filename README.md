@@ -1,3 +1,5 @@
+Es importante descargar geoserver ( https://sourceforge.net/projects/geoserver/files/GeoServer/2.20.0/geoserver-2.20.0-war.zip/download )y correrlo en un servidor Apache Tomcat para que este pueda proporcionar las capas directo al JS. Recuerda que Openlayer necesita nodejs para correr un servidor de desarrollo para OpenLayers.
+
 # OpenLayers Workshop
 
 Welcome to the **OpenLayers Workshop**. This workshop is designed to give you a comprehensive overview of OpenLayers as a web mapping solution.
